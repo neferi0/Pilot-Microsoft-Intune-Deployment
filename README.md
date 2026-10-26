@@ -35,7 +35,7 @@ This is a walkthrough on how I utilized Microsoft Intune to configure and manage
 <h3 align="center">Next, I will create the VM through my ProxMox server. The specs for the VM is that it is running Windows 11 Pro, with 2 CPUs, 8GB RAM, and an 80GB disk. I then verified that it can reach the internet, the device is updated, and that Microsoft services are reachable (See Figure 3).
 <p>
 <br />
-   <img src="https://imgur.com/a/ByNGDLr" height="65%" width="75%" />
+   <img src="https://i.imgur.com/UnzYDYf.png" height="65%" width="75%" />
 </p>
 <br />
 <br />
