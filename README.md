@@ -23,12 +23,12 @@ This is a walkthrough on how I utilized Microsoft Intune to configure and manage
 <br />
 </p>
 <p>
-    <img src="https://imgur.com/a/35TbYwK" height="65%" width="75%" />
+    <img src="https://i.imgur.com/2BRClnk.png" height="65%" width="75%" />
 </p>
 <br />
 </p>
 <p>
-    <img src="https://imgur.com/a/vPkb8iB" height="65%" width="75%" />
+    <img src="https://i.imgur.com/A7sJvsH.png" height="65%" width="75%" />
 </p>
 <br />
 <p>
